@@ -1,0 +1,335 @@
+/*Extra small devices (portrait phones, 320px and up)*/
+@media (min-width: 320px) and (max-width: 575.98px) {
+	/*slider*/
+	.s_wrapper .h1 {    
+    	font-size: 34px !important;
+	}
+	/*feature*/
+	.f_h1 {    	
+    	font-size: 32px !important;
+	}
+	.f_p {
+        font-size: 14px;
+	}
+	.single {
+    	width: 100%;
+   	 	margin: 11px 0px;    
+	}
+	/*video*/
+	.v_h1 {    
+    	font-size: 28px;
+	}
+	.c_manage {
+    	margin-right: 16px;
+    	margin-top: 20px;
+	}
+	.c_manage p {   
+    	font-size: 14px;    
+	}
+	/*gallery*/
+	.g_h1 {
+    	font-size: 30px;
+    	margin-top: 30px;    
+	}
+	.card_2, .card_3, .card_4{
+		margin-top: 40px;
+	}
+	/*footer	*/
+	.menuu p, .menu1 ul li a {    	
+    	font-size: 14px;
+	}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*slider*/	
+	.s_wrapper .h1 {
+    	font-size: 34px !important;
+    	margin-right: 27px;
+	}
+	.s_wrapper .p {
+		 margin: 30px 136px 32px 0px;
+	}
+	.s_btn{		
+		height: 52px;
+    	width: 184px;
+	}
+	/*feature*/
+	.single {
+    	width: 100%;
+   	 	margin: 11px 0px;    
+	}
+	.f_p {
+        margin: 30px 32px;
+	}	
+	.f_btm_1 img {
+    	width: 100%;
+	}
+	.f_btm_2 img {
+    	width: 100%;
+	}
+	.f_btm_3 img {
+    	width: 84%;
+	}
+	.single h2 {
+    	padding-bottom: 60px;
+    	font-size: 30px;
+	}
+	/*video*/
+	.video{
+		margin: 20px 0;
+	}
+	.v_h1 {
+	    font-size: 30px;
+	    margin-top: 80px;
+	    margin-bottom: 30px;	    
+	}
+	.v_p {
+	    font-size: 14px;
+	    line-height: 16px;
+	}
+	.c_manage {
+    	margin-right: 58px;
+    	margin-top: 20px;
+    	text-align: center;
+	}
+	.c_manage h1 {    
+    	font-size: 26px;    
+	}
+	.c_manage p {    
+    	font-size: 19px;    
+	}
+	/*gallery*/
+	.card_2, .card_3, .card_4{
+		margin-top: 40px;
+	}
+	/*footer*/
+	.menu1{
+
+	}	
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*slider*/	
+	.s_wrapper .h1 {    
+    	font-size: 36px !important;    
+    	margin-right: 200px;    	
+	}
+	.s_wrapper .p {
+		 margin: 30px 222px 32px 0px;
+	}
+	.s_btn{		
+		height: 51px;
+    	width: 184px;
+	}
+	/*feature*/
+	.single {
+    	width: 31%;
+   	 	margin-right: 16px;    
+	}
+	.f_p {
+        margin: 30px 66px;
+	}	
+	.f_btm_1 img {
+    	width: 100%;
+	}
+	.f_btm_2 img {
+    	width: 100%;
+	}
+	.f_btm_3 img {
+    	width: 84%;
+	}
+	.single h2 {    
+    	padding-bottom: 30px;
+    	font-size: 22px;
+	}
+	/*video*/
+	.v_h1 {
+	    font-size: 26px;
+	    margin-top: 80px;	    
+	}
+	.v_p {
+	    font-size: 14px;
+	    line-height: 16px;
+	}
+	.c_manage h1 {    
+    	font-size: 30px;    
+	}
+	.c_manage p {    
+    	font-size: 17px;    
+	}
+	/*gallery*/	
+	.card_3{
+		margin-top: 40px;
+	}
+	.card_4{
+		margin-top: 40px;
+	}
+	.menu1 button {    
+    	height: 39px;
+	}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.menu ul li a {   
+    	font-size: 17px !important;
+    }
+	/*slider*/	
+	.s_wrapper .h1 {
+    	font-size: 36px !important;
+    	margin-right: 320px !important;   
+	}
+	.s_wrapper .p {
+		 margin: 30px 370px 32px 0px !important;
+	}
+	.s_btn{		
+		height: 55px;
+    	width: 200px;
+	}
+	/*feature*/
+	.single {
+    	width: 32%;
+    	margin-right: 5px;
+    	margin-left: 6px;
+	}
+	.f_p {
+    	margin: 30px 4px;
+	}	
+	.f_btm_1 img {
+    	width: 100%;
+	}
+	.f_btm_2 img {
+    	width: 100%;
+	}	
+	.f_btm_3 img {
+    	width: 88%;
+	}
+	.single h2 {    
+    	padding-bottom: 30px;
+    	font-size: 26px;
+	}
+	/*video*/
+	.v_h1 {
+	    font-size: 32px;
+	    margin-top: 80px;	    
+	}
+	.v_p {
+	    font-size: 16px;
+	    line-height: 18px;
+	}
+	.c_manage h1 {    
+    	font-size: 30px;    
+	}
+	.c_manage p {    
+    	font-size: 17px;    
+	}
+	/*gallery*/
+	.g_3 {
+    	font-size: 12px;    
+    	line-height: 19px;
+	}
+	/*footer*/
+	.menu1 button {    
+    	margin-top: 10px;
+    	width: 100px;
+	}	
+	    .menuu p {    
+    	font-size: 16px;
+	}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px){
+	.menu ul li a {   
+    	font-size: 22px;
+    }
+	/*slider*/	
+	.s_wrapper .h1 {
+    	font-size: 36px;
+    	margin-right: -38px;   
+	}
+	/*feature*/
+	.single {
+    	width: 32%;
+    	margin-right: 14px;
+	}
+	.f_btm_3 img {
+    	width: 73%;
+	}
+	.single h2 {    
+    	padding-bottom: 30px;
+    	font-size: 28px;
+	}
+	/*video*/
+	.v_h1 {
+	    font-size: 40px;
+	    margin-top: 80px;	    
+	}
+	.v_p {
+	    font-size: 18px;
+	    line-height: 20px;
+	}
+	.c_manage h1 {    
+    	font-size: 30px;    
+	}
+	.c_manage p {    
+    	font-size: 17px;    
+	}
+	/*gellary*/
+	.g_2 {
+    	font-size: 18px;    
+    	line-height: 19px;
+	}
+	.g_4 {
+    	font-size: 18px;    
+    	line-height: 19px;
+	}
+	.g_8 {
+    	font-size: 15px;    
+    	line-height: 19px;
+	}
+	/*footer*/
+	.menu1 button {    
+    	margin-top: 10px;
+    	width: 100px;
+	}
+}
+
+/*Extra extra large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px){
+	/*feature*/
+	.single {
+    	width: 32%;
+    	margin-right: 16px;
+	}
+	.f_btm_3 img {
+    	width: 63%;
+	}
+	.single h2 {    
+    	padding-bottom: 30px;
+    	font-size: 30px;
+	}
+	/*video*/
+	.v_h1 {
+	    font-size: 40px;
+	    margin-top: 80px;	    
+	}
+	.v_p {
+	    font-size: 18px;
+	    line-height: 20px;
+	}
+	.c_manage h1 {    
+    	font-size: 30px;    
+	}
+	.c_manage p {    
+    	font-size: 17px;    
+	}
+	/*footer*/
+	.menu1 button {    
+    	height: 37px;
+    	width: 90px;
+	}
+
+}
